@@ -11,7 +11,7 @@ The Temu Link Bot Software is a revolutionary tool that helps you improve your o
 
 ## How to Use
 
-1. Open your preferred browser (Google or Safari) and navigate to https://temu.com/u/O8ZujZUSLc1OJU.
+1. Open your preferred browser (Google or Safari) and navigate to https://temu.com/u/O8ZujZUClydo1976-patch-1CONTRIBUTING.mdSLc1OJU.
 2. Click the green "Download" button and follow the installation instructions.
 3. Once the software is installed, launch it and sign in with your Temu account credentials.
 4. Spin the wheel and wait one minute.
